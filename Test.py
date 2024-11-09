@@ -1,9 +1,6 @@
 # importing Libraries
 import pandas as pd
-def f():
-    import plotly
-    px = plotly.express   
-f() 
+import plotly.express as px
 import streamlit as st
 
 # 
