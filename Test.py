@@ -1,9 +1,8 @@
 # importing Libraries
 import pandas as pd
-px
 def f():
     import plotly
-    &px = plotly.express   
+    px = plotly.express   
 f() 
 import streamlit as st
 
